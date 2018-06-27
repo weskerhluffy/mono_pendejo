@@ -1,0 +1,18 @@
+tiempo: Mon Jun 25 07:33:41 2018 158805; archivo: caca.c; funcion: heap_shit_insert; linea 1320; nivel: 5 caca 8====D insertado inicialmene 1:1:2:2 en 1
+tiempo: Mon Jun 25 07:33:41 2018 159017; archivo: caca.c; funcion: heap_shit_insert; linea 1320; nivel: 5 caca 8====D insertado inicialmene 2:1:8:8 en 2
+tiempo: Mon Jun 25 07:33:41 2018 159067; archivo: caca.c; funcion: heap_shit_insert; linea 1320; nivel: 5 caca 8====D insertado inicialmene 3:1:5:5 en 3
+tiempo: Mon Jun 25 07:33:41 2018 159111; archivo: caca.c; funcion: heap_shit_insert; linea 1320; nivel: 5 caca 8====D insertado inicialmene 4:1:1:1 en 4
+tiempo: Mon Jun 25 07:33:41 2018 159155; archivo: caca.c; funcion: heap_shit_insert; linea 1320; nivel: 5 caca 8====D insertado inicialmene 5:0:0:0 en 5
+tiempo: Mon Jun 25 07:33:41 2018 159210; archivo: caca.c; funcion: heap_shit_actualiza; linea 1344; nivel: 5 caca 8====D actualizando 5:1:9:9
+tiempo: Mon Jun 25 07:33:41 2018 159252; archivo: caca.c; funcion: heap_shit_actualiza; linea 1348; nivel: 5 caca 8====D 5:1:9:9 i su padre NADA
+tiempo: Mon Jun 25 07:33:41 2018 159287; archivo: caca.c; funcion: heap_shit_actualiza; linea 1361; nivel: 5 caca 8====D empujando abajo 1 0
+5tiempo: Mon Jun 25 07:33:41 2018 159348; archivo: caca.c; funcion: heap_shit_actualiza; linea 1344; nivel: 5 caca 8====D actualizando 4:2:11:22
+tiempo: Mon Jun 25 07:33:41 2018 159383; archivo: caca.c; funcion: heap_shit_actualiza; linea 1348; nivel: 5 caca 8====D 4:2:11:22 i su padre NADA
+tiempo: Mon Jun 25 07:33:41 2018 159416; archivo: caca.c; funcion: heap_shit_actualiza; linea 1361; nivel: 5 caca 8====D empujando abajo 1 0
+ 4tiempo: Mon Jun 25 07:33:41 2018 159479; archivo: caca.c; funcion: heap_shit_actualiza; linea 1344; nivel: 5 caca 8====D actualizando 1:2:7:14
+tiempo: Mon Jun 25 07:33:41 2018 159513; archivo: caca.c; funcion: heap_shit_actualiza; linea 1348; nivel: 5 caca 8====D 1:2:7:14 i su padre NADA
+tiempo: Mon Jun 25 07:33:41 2018 159547; archivo: caca.c; funcion: heap_shit_actualiza; linea 1361; nivel: 5 caca 8====D empujando abajo 1 0
+ 1tiempo: Mon Jun 25 07:33:41 2018 159610; archivo: caca.c; funcion: heap_shit_actualiza; linea 1344; nivel: 5 caca 8====D actualizando 3:2:6:12
+tiempo: Mon Jun 25 07:33:41 2018 159645; archivo: caca.c; funcion: heap_shit_actualiza; linea 1348; nivel: 5 caca 8====D 3:2:6:12 i su padre NADA
+tiempo: Mon Jun 25 07:33:41 2018 159677; archivo: caca.c; funcion: heap_shit_actualiza; linea 1361; nivel: 5 caca 8====D empujando abajo 1 0
+ 3
